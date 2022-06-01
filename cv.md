@@ -103,7 +103,7 @@ reduction in time costs.
 
 * TeachMeSkills - Java Developer <br>
 *November 2021 - May 2022*
-![TMS Certificate](/images/Aliaksandr%20Hastsila-01.jpg)
+![TMS Certificate](/images/tms-certificate.jpg)
 
 * IT Academy - Java Findamentals <br>
 *August 2021 - November 2021*
@@ -112,6 +112,6 @@ reduction in time costs.
 ### English:
 
 * **Result of EF SET English Test:**
-![](/images/EF%20SET%20Certificate.jpg)
+![EF SET Certificate](/images/efset.jpg)
 
 [do not click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
