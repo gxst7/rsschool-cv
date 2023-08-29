@@ -1,1 +1,1 @@
-# rsschool-cv
+https://gxst7.github.io/rsschool-cv/cv
